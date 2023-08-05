@@ -1,0 +1,19 @@
+.left-border{
+    border-left: 3px solid red;
+}
+.rigth-border{
+    border-right: 3px solid red;
+}
+.hrs{
+    border: 1px solid black;
+    width: 1000px;
+    margin-bottom: 50px;
+}
+.red{
+    color: red;
+}
+
+.reds{
+    background-color: red;
+    margin-left: 480px;
+}
